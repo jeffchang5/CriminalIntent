@@ -13,7 +13,8 @@ import android.widget.EditText;
 /**
  * Created by jeffrey on 12/10/15.
  */
-public class CrimeFragment extends Fragment {
+public class CrimeFragment extends Fragment
+        t {
     private Crime mCrime;
     private EditText mTitleField;
     @Override
