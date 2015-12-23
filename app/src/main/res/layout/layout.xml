@@ -23,7 +23,7 @@
         tools:text="name"
         android:textStyle="bold"
         android:textSize="18dp"
-        android:text="Name" />
+        />
     <TextView
         android:id="@+id/crime_detail"
         android:layout_width="match_parent"
